@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assisted10.props" />
+</Project>

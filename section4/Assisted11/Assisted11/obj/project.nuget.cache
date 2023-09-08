@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rtoU7CucuDxuWZoTZdE3ynxtsqQcmUZ6V/5O/KiFBCCCiow7ac4TD+obJ/bh+Jg3xhHjH3wjanyzGVy8igaTA==",
+  "success": true,
+  "projectFilePath": "D:\\Assisted projects\\phase3\\section4\\Assisted11\\Assisted11\\Assisted11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raish\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\raish\\.nuget\\packages\\jquery.validation\\1.8.0.1\\jquery.validation.1.8.0.1.nupkg.sha512",
+    "C:\\Users\\raish\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\4.0.0\\microsoft.jquery.unobtrusive.validation.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

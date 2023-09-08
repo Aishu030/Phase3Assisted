@@ -1,0 +1,2 @@
+D:\Assisted projects\phase3\section4\Assisted18\Assisted18\obj\Debug\Assisted18.csproj.AssemblyReference.cache
+D:\Assisted projects\phase3\section4\Assisted18\Assisted18\obj\Debug\Assisted18.csproj.CoreCompileInputs.cache
