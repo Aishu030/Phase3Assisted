@@ -1,0 +1,7 @@
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\bin\Debug\Assisted2.dll.config
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\bin\Debug\Assisted2.dll
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\bin\Debug\Assisted2.pdb
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\obj\Debug\Assisted2.csproj.AssemblyReference.cache
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\obj\Debug\Assisted2.csproj.CoreCompileInputs.cache
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\obj\Debug\Assisted2.dll
+D:\Assisted projects\phase3\section9\Assisted2\Assisted2\obj\Debug\Assisted2.pdb
